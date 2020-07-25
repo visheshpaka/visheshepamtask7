@@ -1,0 +1,6 @@
+Êþº¾   3 !  HruthvikBehavioural/PlasticDuck  java/lang/Object  HruthvikBehavioural/Duck <init> ()V Code
+     LineNumberTable LocalVariableTable this LHruthvikBehavioural/PlasticDuck; squeak	    java/lang/System   out Ljava/io/PrintStream;  Squeakkk....
+    java/io/PrintStream   println (Ljava/lang/String;)V 
+SourceFile Adapter.java               	   /     *· 
+±                            	   7     	² ¶ ±       
+              	           

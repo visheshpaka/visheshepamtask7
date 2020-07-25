@@ -1,0 +1,9 @@
+Êþº¾   3 "  HruthvikBehavioural/Proxy  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LHruthvikBehavioural/Proxy; main ([Ljava/lang/String;)V   HruthvikBehavioural/ProxyNetAccess  Hruthvik
+     (Ljava/lang/String;)V    !HruthvikBehavioural/OfficeNetAccess   grantNetAccess args [Ljava/lang/String; officeNetAccess #LHruthvikBehavioural/OfficeNetAccess; 
+SourceFile 
+Proxy.java !               /     *· ±    
+       *             	       M     » Y· L+¹  ±    
+       , 
+ -  .             
+           !

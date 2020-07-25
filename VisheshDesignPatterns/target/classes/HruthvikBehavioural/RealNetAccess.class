@@ -1,0 +1,16 @@
+Êþº¾   3 2  HruthvikBehavioural/RealNetAccess  java/lang/Object  !HruthvikBehavioural/OfficeNetAccess employeeName Ljava/lang/String; <init> (Ljava/lang/String;)V Code
+   	  ()V	     LineNumberTable LocalVariableTable this !LHruthvikBehavioural/RealNetAccess; empName grantNetAccess	    java/lang/System   out Ljava/io/PrintStream;  java/lang/StringBuilder   Access granted to employee 
+  " 	 
+
+  $ % & append -(Ljava/lang/String;)Ljava/lang/StringBuilder;
+  ( ) * toString ()Ljava/lang/String;
+ , . - java/io/PrintStream / 
+ println 
+SourceFile 
+Proxy.java               	 
+     F     
+*· *+µ ±           
+   	         
+       
+           H     ² » Y· !*´ ¶ #¶ '¶ +±       
+                    0    1

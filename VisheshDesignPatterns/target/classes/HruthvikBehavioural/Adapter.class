@@ -1,0 +1,11 @@
+Êþº¾   3 A  HruthvikBehavioural/Adapter  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this LHruthvikBehavioural/Adapter; main ([Ljava/lang/String;)V  HruthvikBehavioural/Sparrow
+  	  HruthvikBehavioural/PlasticDuck
+  	  HruthvikBehavioural/BirdAdapter
+     (LHruthvikBehavioural/Bird;)V	    java/lang/System    out Ljava/io/PrintStream; " Sparrow
+ $ & % java/io/PrintStream ' ( println (Ljava/lang/String;)V
+  * +  fly
+  - .  	makeSound 0 Duck 2 4 3 HruthvikBehavioural/Duck 5  squeak 7 Bird Adapter args [Ljava/lang/String; sparrow LHruthvikBehavioural/Sparrow; duck LHruthvikBehavioural/Duck; birdAdapter 
+SourceFile Adapter.java !               /     *· ±    
+       /             	       ¶     F» Y· L» Y· M» Y+· N² !¶ #+¶ )+¶ ,² /¶ #,¹ 1 ² 6¶ #-¹ 1 ±    
+   .    1  2  3  5 ! 6 % 7 ) 9 1 : 7 < ? = E >    *    F 8 9    > : ;   6 < =   - > =   ?    @
